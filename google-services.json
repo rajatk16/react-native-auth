@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220406965661",
+    "firebase_url": "https://react-native-auth-e830c.firebaseio.com",
+    "project_id": "react-native-auth-e830c",
+    "storage_bucket": "react-native-auth-e830c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220406965661:android:899ba2342ffeed7ae07b74",
+        "android_client_info": {
+          "package_name": "com.rajat.reactnativeauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220406965661-11tgpnprp7cgmeejfptaha9th33f0qm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpasGj6fCisvDrAmokPt7nTcmFdLv7IMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220406965661-11tgpnprp7cgmeejfptaha9th33f0qm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
